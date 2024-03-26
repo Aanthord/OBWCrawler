@@ -33,7 +33,7 @@ By using this script, you acknowledge and agree that you are solely responsible 
 ## Usage
 
 1. Configure the desired settings in the `config.json` file, such as keywords, maximum results per keyword, rate limiting, and depth of exploration.
-2. Run the script using `python your_script.py`.
+2. Run the script using `obwc.py`.
 3. The script will search for videos based on the specified keywords and recursively explore related videos up to the configured depth.
 4. The search results will be logged to the console and saved to a file named `search_results.txt`.
 

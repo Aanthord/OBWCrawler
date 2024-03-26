@@ -1,0 +1,9 @@
+{
+  "keywords": ["educational science", "technology news", "daily workout routines"],
+  "max_results_per_keyword": 5,
+  "requests_per_second": 1,
+  "max_depth": 2,
+  "api_key": "YOUR_API_KEY_HERE",
+  "max_retries": 3,
+  "default_timeout": 2
+}
